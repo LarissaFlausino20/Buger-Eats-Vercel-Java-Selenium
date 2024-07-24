@@ -11,34 +11,35 @@ Este projeto realiza a automação do site Buger Eats utilizando Cucumber, Selen
 
 ## Funcionalidades
 
-Automação Web: Testes automatizados para o site Buger Eats utilizando Selenium.
+- Automação Web: Testes automatizados para o site Buger Eats utilizando Selenium.
 
-Sintaxe Gherkin: Utilização do Cucumber para escrever testes em uma linguagem natural e compreensível.
+- Sintaxe Gherkin: Utilização do Cucumber para escrever testes em uma linguagem natural e compreensível.
 
-Captura de Tela: Utilização do Ashot para captura de screenshots durante os testes.
+- Captura de Tela: Utilização do Ashot para captura de screenshots durante os testes.
 
-Upload de Imagens: Funcionalidade para fazer upload de uma imagem JPG (caminho da imagem configurável).
+- Upload de Imagens: Funcionalidade para fazer upload de uma imagem JPG (caminho da imagem configurável).
 
 ## Ferramentas e Tecnologias
-Selenium: Ferramenta para automação de navegadores.
 
-Cucumber: Framework para escrever testes em formato de comportamento (BDD) com sintaxe Gherkin.
+- Selenium: Ferramenta para automação de navegadores.
 
-Ashot: Biblioteca para captura de screenshots em testes automatizados.
+- Cucumber: Framework para escrever testes em formato de comportamento (BDD) com sintaxe Gherkin.
 
-CommonsLang3: Biblioteca Apache para manipulação de strings e outras funções utilitárias.
+- Ashot: Biblioteca para captura de screenshots em testes automatizados.
 
-Eclipse: IDE utilizada para o desenvolvimento do projeto.
+- CommonsLang3: Biblioteca Apache para manipulação de strings e outras funções utilitárias.
+
+- Eclipse: IDE utilizada para o desenvolvimento do projeto.
 
 ## Como Utilizar
 
-Configuração do Ambiente: Certifique-se de ter o Eclipse instalado e as bibliotecas necessárias configuradas no seu projeto.
+- Configuração do Ambiente: Certifique-se de ter o Eclipse instalado e as bibliotecas necessárias configuradas no seu projeto.
 
-Clonagem do Repositório: Clone este repositório em sua máquina local.
+- Clonagem do Repositório: Clone este repositório em sua máquina local.
 
-Configuração do Caminho da Imagem: Insira o caminho da sua imagem JPG no local apropriado do código.
+- Configuração do Caminho da Imagem: Insira o caminho da sua imagem JPG no local apropriado do código.
 
-Execução dos Testes: Execute os testes diretamente pelo Eclipse.
+- Execução dos Testes: Execute os testes diretamente pelo Eclipse.
 
 ## Estrutura do Projeto
 
