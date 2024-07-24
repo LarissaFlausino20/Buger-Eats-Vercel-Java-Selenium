@@ -7,5 +7,6 @@
 
 
 # Buger-Eats-Vercel
-Projeto Buger Eats usando Cucumber em BDD escrevendo os testes em gherkin, Junit, Selenium, WebDriverManager para gerenciamento das dependências, Ashot e CommonsLang3 com upload de uma imagem jpg.
-IDE de desenvolvimento utilizado foi o Eclipse.
+- Projeto de Automação Buger Eats utilizando Cucumber com a sintaxe gherkin, Selenium para automação web, Ashot e CommonsLang3.
+- Também foi desenvolvido o upload de uma imagem JPG (Você pode colocar o caminho da sua imagem.
+- IDE de desenvolvimento utilizado foi o Eclipse.
